@@ -9,7 +9,11 @@ A nostalgic 2D Pac-Man game implementation in Java using the **StdDraw** library
 The project features smooth grid-aligned movement, custom collision hitboxes, state machine game logic, and a **Breadth-First Search (BFS)** pathfinding engine running on a custom generic FIFO Queue data structure.
 
 ---
+## 🎬 Gameplay Demo
 
+🎥 **Watch Gameplay Video:** [Watch on YouTube](https://youtu.be/bP92kn4G6ug)
+
+---
 ## 🕹️ Game Features & Enemy AI
 
 ### 1. BFS Pathfinding Engine
