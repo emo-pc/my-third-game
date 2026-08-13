@@ -65,3 +65,23 @@ third-game/
 ├── Queue.java         # Generic FIFO array-based queue with dynamic resizing
 ├── BFSPathFinder.java # Layer-by-layer shortest path algorithm using Node chaining
 └── Enemy.java         # Abstract base ghost class (Extended by Blinky, Inky, Pinky)
+```
+## 🚀 How to Run Locally
+
+### Prerequisites
+- Java Development Kit (JDK 11 or higher) installed.
+
+### Execution
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/emo-pc/my-third-game.git](https://github.com/emo-pc/my-third-game.git)
+   cd my-third-game
+   ```
+
+2. **Compile and Run:**
+   `stdlib.jar` is on the repo.
+   Ensure `stdlib.jar` is in your working directory, then run:
+   ```bash
+   javac -cp .:stdlib.jar src/*.java -d bin
+   java -cp bin:stdlib.jar Main
+   ```
