@@ -86,3 +86,13 @@ third-game/
    javac -cp .:stdlib.jar src/*.java -d bin
    java -cp bin:stdlib.jar Main
    ```
+
+## 👤 Author
+
+<a href="https://github.com/emo-pc">
+  <img src="picture.png" width="150" align="right" alt="Emre Ezgü Ghibli Portrait">
+</a>
+
+**Emre Ezgü**  
+- **University:** Bogazici University — Computer Engineering
+- **GitHub:** [@emo-pc](https://github.com/emo-pc)
