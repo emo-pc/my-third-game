@@ -80,6 +80,7 @@ third-game/
 
 2. **Compile and Run:**
    `stdlib.jar` is on the repo.
+   Make sure you have the assets.
    Ensure `stdlib.jar` is in your working directory, then run:
    ```bash
    javac -cp .:stdlib.jar src/*.java -d bin
