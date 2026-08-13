@@ -4,7 +4,7 @@
 ![StdDraw](https://img.shields.io/badge/Library-StdDraw-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-A nostalgic 2D Pac-Man game implementation in Java using the **StdDraw** library. Developed for **Boğaziçi University CMPE 160 (Object-Oriented Programming)**.
+A nostalgic 2D Pac-Man game implementation in Java using the **StdDraw** library. Developed for **Bogazici University CMPE 160 (Object-Oriented Programming)**.
 
 The project features smooth grid-aligned movement, custom collision hitboxes, state machine game logic, and a **Breadth-First Search (BFS)** pathfinding engine running on a custom generic FIFO Queue data structure.
 
